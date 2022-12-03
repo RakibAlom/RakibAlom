@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rakib Alom</h1>  
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>  
 
-<p align="left">Hi, I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest and focused on crafting great web experiences. Designing and Coding have been my passion. I found myself in web design/development when I start my study in Computer Science. I enjoy creating intuitive, creative, and functional websites.</p> <br>
+<p align="left">Hi, I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest and focused on crafting great web experiences. Designing and Coding have been my passion. I found myself in web design/development when I start my study in Computer Science. I enjoy creating intuitive, creative, and functional websites.</p>
   
   
 - 🌱 I’m currently learning **MERN-Stack**  
