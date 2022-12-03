@@ -1,4 +1,4 @@
-<img align="center" src="https://i.ibb.co/gvQHp6g/Rakib-Alom.webp" alt="rakibalom94" />
+<img align="center" src="https://i.ibb.co/fk7pqKc/Rakib-alom-Full-stack-Developer.webp" alt="rakibalom94" />
 <h1 align="center">Hi 👋, I'm Rakib Alom</h1>  
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>  
 
