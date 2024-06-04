@@ -1,10 +1,10 @@
 <img align="center" src="https://i.ibb.co/3W2bV6d/Rakib-alom-Full-stack-Developer.webp" alt="rakibalom94" />
 <h1 align="center">Hi 👋, I'm Rakib Alom</h1>  
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>  
+<h3 align="center">A passionate full-stack developer & SEO Expert from Bangladesh</h3>  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rakibalom&label=Profile%20views&color=0e75b6&style=flat" alt="Rakib Alom" /> </p>
 
-<p align="left">Hi, I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest and focused on crafting great web experiences. Designing and Coding have been my passion. I found myself in web design/development when I started my study in Computer Science. I enjoy creating intuitive, creative, and functional websites.</p>
+<p align="left">Hi, I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest and focused on crafting great web experiences. Designing and Coding have been my passion. I found myself in web design/development when I started my studies in computer science. I enjoy creating intuitive, creative, and functional websites.</p>
   
   
 - 🌱 I’m currently learning **MERN-Stack**  
